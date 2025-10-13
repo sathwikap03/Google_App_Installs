@@ -2,7 +2,7 @@
 
 # 📋 Overview
 This project focuses on analyzing data from the **Google Play Store** to uncover insights about app popularity, user ratings, pricing strategies, and category performance.  
-The analysis was conducted in **Python using Google Colab**, and the cleaned dataset (googleplaystore.csv) is included in this repository.
+The analysis was conducted in **Python using Google Colab**, and the cleaned dataset ('googleplaystore.csv') is included in this repository.
 
 ## 📂 Dataset
 - **File:** googleplaystore.csv
